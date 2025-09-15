@@ -1,0 +1,20 @@
+{
+  "name": "AOI Blog",
+  "short_name": "AOI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/IMG_URL_LOGO.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/IMG_URL_LOGO.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
